@@ -33,7 +33,7 @@ setup(
         "numpy==1.25.1",
         "tqdm==4.65.0",
         "pandas==2.0.3",
-        "scikit-learn==1.3.0",
+        "scikit-learn==1.3.1",
         "sqlalchemy==2.0.18",
     ],
     extras_require={
